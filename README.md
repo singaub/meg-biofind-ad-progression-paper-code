@@ -15,7 +15,7 @@ A few highlights / gotchas:
 
 ## Citation
 
-If using our code, please cite our preprint until our full paper is published.
+If using our code, please cite our [preprint](https://www.medrxiv.org/content/10.1101/2024.07.06.24310016v1) until our full paper is published.
 
 ```
 @article{gaubert2024exploring,
