@@ -63,12 +63,19 @@ We then manually selected the feature of interest and created separate outputfil
 
 ### Figure 2
 
+- [x] fig2_log_reg_meg_cluster_adj.R
+- [x] fig2_log_reg.ipynb
+
 ### Figure 3
+
+- [x] fig3_sensor_stats.py
+- [x] fig3_manova.py
+
 
 ### Figure 4
 
-- [x] fig4_dwpli.py
-- [x] fig4_rplain.py
+- [x] fig4_sensor_stats.py 
+- [x] fig4_manova.py
 
 ### Figure 5
 
@@ -80,17 +87,38 @@ We then manually selected the feature of interest and created separate outputfil
 
 #### S1
 
+- [x] figS1.ipynb
+
 #### S2
+
+- [x] figS2_mod1.ipynb
+- [x] figS2_mod2.ipynb
+- [x] figS2_mod3.ipynb
 
 #### S3
 
+- [x] figS3_log_reg.ipynb
+- [x] figS3_log_reg_meg_cluster_ave.R
+
 #### S4
+
+- [x] figS4.ipynb
+
+#### S5
+
+- [x] figS5.ipynb
 
 #### S6
 
+- [x] figS6.ipynb
+
 #### S7
 
+- [x] figS7.ipynb
+
 #### S8
+
+- [x] figS8.ipynb
 
 #### S9
 
