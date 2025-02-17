@@ -122,7 +122,11 @@ We then manually selected the feature of interest and created separate outputfil
 
 #### S9
 
+- figS9.ipynb
+
 #### S10
+
+- figS10.ipynb
 
 #### Table S1
 
