@@ -36,15 +36,15 @@ For preprocessing to work, you will need the following files, which borrow from 
 
 Configuratsion (by site and MEG calibration files to chunk computation into smaller pieces managed by the DPUK server):
 
-- [x] biofind_config_CBU.py
-- [x] biofind_config_CTB1.py
-- [x] biofind_config_CTB2.py
+- biofind_config_CBU.py
+- biofind_config_CTB1.py
+- biofind_config_CTB2.py
 
 For producing the MEG outputs we ran the following steps, reusing the older INRIA-based pipeline from Engemann et al 2020 and Sabbagh et al 2020.
 
-- [x] compute-preprocesing.py
-- [x] compute-maxfilter.py
-- [x] copmute-features-biofind.py
+- compute-preprocesing.py
+- compute-maxfilter.py
+- copmute-features-biofind.py
 
 For the ```compute-preprocessing.py``` and ```compute-features.py``` the user must select the config and rerun the script accordingly and repeat the procedure until all subjects are processed.
 
@@ -58,68 +58,72 @@ We then manually selected the feature of interest and created separate outputfil
 
 ### Figure 1
 
-- [x] fig1_psd_converters.ipynb
-- [x] fig1_covs.ipynb
+- fig1_psd_converters.ipynb
+- fig1_covs.ipynb
 
 ### Figure 2
 
-- [x] fig2_log_reg_meg_cluster_adj.R
-- [x] fig2_log_reg.ipynb
+- fig2_log_reg_meg_cluster_adj.R
+- fig2_log_reg.ipynb
 
 ### Figure 3
 
-- [x] fig3_sensor_stats.py
-- [x] fig3_manova.py
+- fig3_sensor_stats.py
+- fig3_manova.py
 
 
 ### Figure 4
 
-- [x] fig4_sensor_stats.py 
-- [x] fig4_manova.py
+- fig4_sensor_stats.py 
+- fig4_manova.py
 
 ### Figure 5
 
-- [x] fig5_classificartion_model_MEG.ipynb
-- [x] fig5_classificartion_model_MRI.ipynb
-- [x] fig5_big_stacking_model.ipynb
+- fig5_classificartion_model_MEG.ipynb
+- fig5_classificartion_model_MRI.ipynb
+- fig5_big_stacking_model.ipynb
 
 ### Supplementary Figures and Tables
 
 #### S1
 
-- [x] figS1.ipynb
+- figS1.ipynb
 
 #### S2
 
-- [x] figS2_mod1.ipynb
-- [x] figS2_mod2.ipynb
-- [x] figS2_mod3.ipynb
+- figS2_mod1.ipynb
+- figS2_mod2.ipynb
+- figS2_mod3.ipynb
 
 #### S3
 
-- [x] figS3_log_reg.ipynb
-- [x] figS3_log_reg_meg_cluster_ave.R
+- figS3_log_reg.ipynb
+- figS3_log_reg_meg_cluster_ave.R
 
 #### S4
 
-- [x] figS4.ipynb
+- figS4.ipynb
 
 #### S5
 
-- [x] figS5.ipynb
+- figS5.ipynb
 
 #### S6
 
-- [x] figS6.ipynb
+- figS6.ipynb
 
 #### S7
 
-- [x] figS7.ipynb
+- figS7.ipynb
 
 #### S8
 
-- [x] figS8.ipynb
+- figS8.ipynb
 
 #### S9
 
 #### S10
+
+#### Table S1
+
+- table_S1.R
