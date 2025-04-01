@@ -18,13 +18,16 @@ A few highlights / gotchas:
 If using our code, please cite our [preprint](https://www.medrxiv.org/content/10.1101/2024.07.06.24310016v1) until our full paper is published.
 
 ```
-@article{gaubert2024exploring,
-  title={Exploring the neuromagnetic signatures of cognitive decline from mild cognitive impairment to Alzheimer's disease dementia},
-  author={Gaubert, Sinead and Garces, Pilar and Hipp, J{\"o}rg and Bru{\~n}a, Ricardo and Lop{\'e}z, Maria Eugenia and Maestu, Fernando and Vaghari, Delshad and Henson, Richard and Paquet, Claire and Engemann, Denis},
-  journal={medRxiv},
-  pages={2024--07},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory Press}
+@article{gaubert2025,
+	author = {Gaubert, Sinead and Garces, Pilar and Hipp, J{\"o}rg and Bru{\~n}a, Ricardo and Lop{\'e}z, Maria Eugenia and Maestu, Fernando and Vaghari, Delshad and Henson, Richard and Paquet, Claire and Engemann, Denis-Alexander},
+	doi = {10.1016/j.ebiom.2025.105659},
+	isbn = {2352-3964},
+	journal = {eBioMedicine},
+	title = {Exploring the neuromagnetic signatures of cognitive decline from mild cognitive impairment to Alzheimer's disease dementia},
+	type = {doi: 10.1016/j.ebiom.2025.105659},
+	url = {https://doi.org/10.1016/j.ebiom.2025.105659},
+	volume = {114},
+	year = {2025}
 }
 ```
 
